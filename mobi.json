@@ -3,28 +3,28 @@
   "sources": [
     {
       "id": "alpha",
-      "name": "Alpha",
+      "name": "ALPHA",
       "movie": "https://vidstuck.xyz/embed/movie/{id}",
       "tv": "https://vidstuck.xyz/embed/tv/{id}/{season}/{episode}",
       "enabled": true
     },
     {
       "id": "bravo",
-      "name": "Bravo",
+      "name": "BRAVO",
       "movie": "https://vidsrc.party/embed/movie/{id}",
       "tv": "https://vidsrc.party/embed/tv/{id}/{season}/{episode}",
       "enabled": true
     },
     {
       "id": "charlie",
-      "name": "Charlie",
+      "name": "CHARLIE",
       "movie": "https://player.zxcprime.xyz/player/movie/{id}",
       "tv": "https://zxcstream.xyz/player/tv/{id}/{season}/{episode}",
       "enabled": true
     }
     {
       "id": "delta",
-      "name": "Delta",
+      "name": "DELTA",
       "movie": "https://vidlink.pro/movie/{tmdbId}",
       "tv": "https://vidlink.pro/tv/{tmdbId}/{season}/{episode}",
       "enabled": false
