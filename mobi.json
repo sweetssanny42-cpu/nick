@@ -27,14 +27,14 @@
       "name": "DELTA",
       "movie": "https://vidlink.pro/movie/{tmdbId}",
       "tv": "https://vidlink.pro/tv/{tmdbId}/{season}/{episode}",
-      "enabled": false
+      "enabled": true
     }
     {
       "id": "echo",
       "name": "ECHO",
       "movie": "https://vidnest.fun/movie/{tmdbId}",
       "tv": "https://vidnest.fun/tv/{tmdbId}/{season}/{episode}",
-      "enabled": false
+      "enabled": true
     }
   ]
 }
