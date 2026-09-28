@@ -50,5 +50,12 @@
       "tv": "https://embed.vidrift.net/embed/tv/{tmdbId}/{season}/{episode}",
       "enabled": true
     }
+    {
+      "id": "india",
+      "name": "INDIA",
+      "movie": "https://player.cinezo.live/embed/movie/{tmdbId}",
+      "tv": "https://player.cinezo.live/embed/tv/{tmdbId}/{season}/{episode}",
+      "enabled": true
+    }
   ]
 }
