@@ -2,43 +2,43 @@
   "version": 1,
   "sources": [
     {
-      "id": "alpha",
-      "name": "ALPHA",
+      "id": "bravo",
+      "name": "BRAVO",
       "movie": "https://vidstuck.xyz/embed/movie/{id}",
       "tv": "https://vidstuck.xyz/embed/tv/{id}/{season}/{episode}",
       "enabled": true
     },
     {
-      "id": "bravo",
-      "name": "BRAVO",
+      "id": "charlie",
+      "name": "CHARLIE",
       "movie": "https://vidsrc.party/embed/movie/{id}",
       "tv": "https://vidsrc.party/embed/tv/{id}/{season}/{episode}",
       "enabled": true
     },
     {
-      "id": "charlie",
-      "name": "CHARLIE",
+      "id": "delta",
+      "name": "DELTA",
       "movie": "https://player.zxcprime.xyz/player/movie/{id}",
       "tv": "https://zxcstream.xyz/player/tv/{id}/{season}/{episode}",
       "enabled": true
     }
     {
-      "id": "delta",
-      "name": "DELTA",
+      "id": "echo",
+      "name": "ECHO",
       "movie": "https://vidlink.pro/movie/{tmdbId}",
       "tv": "https://vidlink.pro/tv/{tmdbId}/{season}/{episode}",
       "enabled": true
     }
     {
-      "id": "echo",
-      "name": "ECHO",
+      "id": "foxtrot",
+      "name": "FOXTROT",
       "movie": "https://vidnest.fun/movie/{tmdbId}",
       "tv": "https://vidnest.fun/tv/{tmdbId}/{season}/{episode}",
       "enabled": true
     }
     {
-      "id": "foxtrot",
-      "name": "FOXTROT",
+      "id": "golf",
+      "name": "Golf",
       "movie": "https://player.vidlove.cc/embed/movie/{tmdbId}",
       "tv": "https://player.vidlove.cc/embed/tv/{tmdbId}/{season}/{episode}",
       "enabled": true
