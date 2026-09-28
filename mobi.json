@@ -29,5 +29,12 @@
       "tv": "https://vidlink.pro/tv/{tmdbId}/{season}/{episode}",
       "enabled": false
     }
+    {
+      "id": "echo",
+      "name": "ECHO",
+      "movie": "https://vidnest.fun/movie/{tmdbId}",
+      "tv": "https://vidnest.fun/tv/{tmdbId}/{season}/{episode}",
+      "enabled": false
+    }
   ]
 }
