@@ -36,5 +36,12 @@
       "tv": "https://vidnest.fun/tv/{tmdbId}/{season}/{episode}",
       "enabled": true
     }
+    {
+      "id": "foxtrot",
+      "name": "FOXTROT",
+      "movie": "https://player.vidlove.cc/embed/movie/{tmdbId}",
+      "tv": "https://player.vidlove.cc/embed/tv/{tmdbId}/{season}/{episode}",
+      "enabled": true
+    }
   ]
 }
