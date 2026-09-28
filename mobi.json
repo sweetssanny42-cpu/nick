@@ -27,7 +27,7 @@
       "name": "Delta",
       "movie": "https://vidlink.pro/movie/{tmdbId}",
       "tv": "https://vidlink.pro/tv/{tmdbId}/{season}/{episode}",
-      "enabled": true
+      "enabled": false
     }
   ]
 }
