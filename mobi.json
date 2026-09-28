@@ -43,5 +43,12 @@
       "tv": "https://player.vidlove.cc/embed/tv/{tmdbId}/{season}/{episode}",
       "enabled": true
     }
+    {
+      "id": "hotel",
+      "name": "HOTEL",
+      "movie": "https://embed.vidrift.net/embed/movie/{tmdbId}",
+      "tv": "https://embed.vidrift.net/embed/tv/{tmdbId}/{season}/{episode}",
+      "enabled": true
+    }
   ]
 }
