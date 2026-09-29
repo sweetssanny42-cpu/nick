@@ -57,5 +57,12 @@
       "tv": "https://player.cinezo.live/embed/tv/{tmdbId}/{season}/{episode}",
       "enabled": true
     }
+    {
+      "id": "juliette",
+      "name": "JULIETTE",
+      "movie": "https://vidsrc.sh/embed/movie/{tmdbId}",
+      "tv": "https://vidsrc.sh/embed/tv/{tmdbId}/{season}/{episode}",
+      "enabled": true
+    }
   ]
 }
