@@ -64,11 +64,18 @@
       "tv": "https://vidsrc.sh/embed/tv/{tmdbId}/{season}/{episode}",
       "enabled": true
     }
-     {
+    {
       "id": "kilo",
       "name": "KILO",
       "movie": "https://vidrock.to/movie/{tmdbId}",
       "tv": "https://vidrock.to/tv/{tmdbId}/{season}/{episode}",
+      "enabled": true
+    }
+    {
+      "id": "lima",
+      "name": "LIMA",
+      "movie": "https://play.xpass.top/e/movie/{tmdbId}",
+      "tv": "https://play.xpass.top/e/tv/{tmdbId}/{season}/{episode}",
       "enabled": true
     }
   ]
