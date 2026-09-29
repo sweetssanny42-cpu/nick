@@ -78,5 +78,12 @@
       "tv": "https://play.xpass.top/e/tv/{tmdbId}/{season}/{episode}",
       "enabled": true
     }
+    {
+      "id": "mike",
+      "name": "MIKE",
+      "movie": "https://vaplayer.ru/embed/movie/{tmdbId}",
+      "tv": "https://vaplayer.ru/embed/tv/{tmdbId}/{season}/{episode}",
+      "enabled": true
+    }
   ]
 }
