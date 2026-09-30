@@ -1,1 +1,8 @@
-
+{
+  "id": "alpha",
+  "name": "ALPHA",
+  "movieUrl": "https://www.cipher.rest/api/stream?type=movie&id={id}",
+  "tvUrl": "https://www.cipher.rest/api/stream?type=tv&id={id}&s={season}&e={episode}",
+  "enabled": true,
+  "isDefault": true
+}
