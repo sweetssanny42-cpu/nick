@@ -1,6 +1,6 @@
 {
-  "id": "alpha",
-  "name": "ALPHA",
+  "id": "xray",
+  "name": "XRAY",
   "movieUrl": "https://streamdata.vaplayer.ru/api.php?tmdb=$tmdbId&type=movie",
   "tvUrl": "https://streamdata.vaplayer.ru/api.php?tmdb=$tmdbId&type=tv&season=$season&episode=$episode",
   "enabled": true,
