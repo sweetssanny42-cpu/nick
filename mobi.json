@@ -85,5 +85,12 @@
       "tv": "https://vaplayer.ru/embed/tv/{tmdbId}/{season}/{episode}",
       "enabled": true
     }
+    {
+      "id": "november",
+      "name": "NOVEMBER",
+      "movie": "https://player.vidzee.wtf/embed/movie/{tmdbId}",
+      "tv": "https://player.vidzee.wtf/embed/tv/{tmdb_id}/{tmdbId}/{season}/{episode}",
+      "enabled": true
+    }
   ]
 }
