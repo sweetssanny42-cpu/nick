@@ -3,7 +3,7 @@
   "sources": [
     {
       "id": "bravo",
-      "name": "BRAVO",
+      "name": "BRAVO - fixing robot",
       "movie": "https://vidstuck.xyz/embed/movie/{id}?subtitle=english",
       "tv": "https://vidstuck.xyz/embed/tv/{id}/{season}/{episode}?subtitle=english",
       "enabled": true
