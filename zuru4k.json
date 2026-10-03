@@ -3,6 +3,6 @@
   "name": "ZURU 4k",
   "movieUrl": "https://hdhub.thevolecitor.qzz.io/eyJ0b3Jib3giOiJ1bnNldCIsInF1YWxpdGllcyI6IjIxNjBwLDEwODBwLDcyMHAiLCJzb3J0IjoiZGVzYyJ9/stream/movie/tmdb:{id}.json",
   "tvUrl": "https://hdhub.thevolecitor.qzz.io/eyJ0b3Jib3giOiJ1bnNldCIsInF1YWxpdGllcyI6IjIxNjBwLDEwODBwLDcyMHAiLCJzb3J0IjoiZGVzYyJ9/stream/series/tmdb:{id}:{season}:{episode}.json",
-  "enabled": false,
+  "enabled": true,
   "isDefault": false
 }
