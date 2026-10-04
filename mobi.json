@@ -69,7 +69,7 @@
       "name": "KILO",
       "movie": "https://vidrock.to/movie/{tmdbId}",
       "tv": "https://vidrock.to/tv/{tmdbId}/{season}/{episode}",
-      "enabled": true
+      "enabled": false
     }
     {
       "id": "lima",
