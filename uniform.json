@@ -1,0 +1,8 @@
+{
+  "id": "uniform",
+  "name": "UNIFORM",
+  "movieUrl": "https://vidrock.to/api/movie/{id}",
+  "tvUrl": "https://vidrock.to/api/tv/{id}/{season}/{episode}",
+  "enabled": true,
+  "isDefault": false
+}
