@@ -1,0 +1,8 @@
+{
+  "id": "tagalog",
+  "name": "TAGALOG MOVIES ONLY",
+  "movieUrl": "https://noodstream.asia/video/{id}/",
+  "tvUrl": "https://noodstream.asia/video/{id}/",
+  "enabled": true,
+  "isDefault": false
+}
