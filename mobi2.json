@@ -101,7 +101,15 @@
       "id": "november",
       "name": "NOVEMBER",
       "movie": "https://player.vidzee.wtf/embed/movie/{tmdbId}",
-      "tv": "https://player.vidzee.wtf/embed/tv/{tmdb_id}/{tmdbId}/{season}/{episode}",
+      "tv": "https://player.vidzee.wtf/embed/tv/{tmdbId}/{season}/{episode}",
+      "enabled": true,
+      "isDefault": false
+    }
+    {
+      "id": "oscar",
+      "name": "OSCAR",
+      "movie": "https://vidfast.vc/movie/{tmdbId}?autoPlay=true",
+      "tv": "https://vidfast.vc/tv/{tmdbId}/{season}/{episode}?autoPlay=true",
       "enabled": true,
       "isDefault": false
     }
