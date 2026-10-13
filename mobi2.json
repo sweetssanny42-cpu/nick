@@ -108,8 +108,8 @@
     {
       "id": "oscar",
       "name": "OSCAR",
-      "movie": "https://vidfast.vc/movie/{tmdbId}?autoPlay=true",
-      "tv": "https://vidfast.vc/tv/{tmdbId}/{season}/{episode}?autoPlay=true",
+      "movie": "https://vidfast.vc/movie/{tmdbId}?autoPlay=true&sub=en",
+      "tv": "https://vidfast.vc/tv/{tmdbId}/{season}/{episode}?autoPlay=true&nextButton=true&autoNext=true&sub=en",
       "enabled": true,
       "isDefault": false
     }
