@@ -14,7 +14,6 @@
       "movie": "https://vidsrc.party/embed/movie/{id}",
       "tv": "https://vidsrc.party/embed/tv/{id}/{season}/{episode}",
       "enabled": true
-      "enabled": true,
     },
     {
       "id": "delta",
