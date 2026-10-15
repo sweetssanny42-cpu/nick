@@ -155,10 +155,10 @@
     }
     {
       "id": "victor",
-      "name": "VICTOR",
+      "name": "VICTOR Test",
       "movie": "https://cinejoy.pk/watch/movie/{tmdbId}",
       "tv": "https://cinejoy.pk/watch/tv/{tmdbId}/{season}/{episode}",
-      "enabled": false,
+      "enabled": true,
       "isDefault": false
     }
     {
