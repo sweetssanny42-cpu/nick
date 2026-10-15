@@ -145,5 +145,13 @@
       "enabled": true,
       "isDefault": false
     }
+    {
+      "id": "tango",
+      "name": "TANGO",
+      "movie": "https://play.xpass.top/e/movie/{tmdbId}?autostart=true",
+      "tv": https://play.xpass.top/e/tv/{tmdbId}/{season}/{episode}?autostart=true",
+      "enabled": true,
+      "isDefault": false
+    }
   ]
 }
