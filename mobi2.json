@@ -155,7 +155,7 @@
     }
     {
       "id": "victor",
-      "name": "VICTOR,
+      "name": "VICTOR",
       "movie": "https://vidbolt.xyz/movie/{tmdbId}?lang=en&autoplay=true&sub=en",
       "tv": "https://vidbolt.xyz/tv/{tmdbId}/{season}/{episode}?lang=en&autoplay=true&sub=en",
       "enabled": true,
