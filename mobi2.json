@@ -1,6 +1,14 @@
 {
   "version": 1,
   "sources": [
+     {
+      "id": "alpha 4k",
+      "name": "ALPHA 4K",
+      "movie": "https://www.vidy.st/movie/{tmdbId}?color=DC2626&autoplay=true",
+      "tv": "https://www.vidy.st/tv/{tmdbId}/{season}/{episode}?color=DC2626&nextEpisode=true&episodeSelector=true&autoplayNextEpisode=true&autoplay=true",
+      "enabled": true,
+      "isDefault": false
+    }
     {
       "id": "bravo",
       "name": "BRAVO",
@@ -118,14 +126,6 @@
       "name": "PAPA",
       "movie": "https://multiembed.mov/?video_id={tmdbId}&tmdb=1", 
       "tv": "https://multiembed.mov/?video_id={tmdbId}&tmdb=1&s={season}&e={episode}",
-      "enabled": true,
-      "isDefault": false
-    }
-    {
-      "id": "alpha 4k",
-      "name": "Alpha 4k",
-      "movie": "https://www.vidy.st/movie/{tmdbId}?color=DC2626&autoplay=true",
-      "tv": "https://www.vidy.st/tv/{tmdbId}/{season}/{episode}?color=DC2626&nextEpisode=true&episodeSelector=true&autoplayNextEpisode=true&autoplay=true",
       "enabled": true,
       "isDefault": false
     }
