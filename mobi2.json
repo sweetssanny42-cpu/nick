@@ -14,8 +14,8 @@
       "name": "BRAVO",
       "movie": "https://vidstuck.xyz/embed/movie/{id}?subtitle=english",
       "tv": "https://vidstuck.xyz/embed/tv/{id}/{season}/{episode}?subtitle=english",
-      "enabled": true,
-      "isDefault": true
+      "enabled": false,
+      "isDefault": false
     },
     {
       "id": "charlie",
@@ -23,7 +23,7 @@
       "movie": "https://vidsrc.party/embed/movie/{id}?sub=en",
       "tv": "https://vidsrc.party/embed/tv/{id}/{season}/{episode}?sub=en",
       "enabled": true,
-      "isDefault": false
+      "isDefault": true
     },
     {
       "id": "delta",
