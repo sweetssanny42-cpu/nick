@@ -129,5 +129,13 @@
       "enabled": true,
       "isDefault": false
     }
+    {
+      "id": "romeo",
+      "name": "ROMEO",
+      "movie": "https://nxsha.space/embed/movie/{tmdbId}?lang=en&autoplay=true&sub=en",
+      "tv": "https://nxsha.space/embed/tv/{tmdbId}/{season}/{episode}?lang=en&autoplay=true&sub=en",
+      "enabled": true,
+      "isDefault": false
+    }
   ]
 }
