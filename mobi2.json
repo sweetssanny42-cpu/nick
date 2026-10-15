@@ -122,16 +122,8 @@
       "isDefault": false
     }
     {
-      "id": "romeo",
-      "name": "Romeo",
-      "movie": "https://multiembed.mov/directstream.php?video_id={tmdbId}&tmdb=1", 
-      "tv": "https://multiembed.mov/directstream.php?video_id={tmdbId}&tmdb=1&s={season}&e={episode}",
-      "enabled": true,
-      "isDefault": false
-    }
-    {
-      "id": "sierra",
-      "name": "Sierra",
+      "id": "alpha 4k",
+      "name": "Alpha 4k",
       "movie": "https://www.vidy.st/movie/{tmdbId}?color=DC2626&autoplay=true",
       "tv": "https://www.vidy.st/tv/{tmdbId}/{season}/{episode}?color=DC2626&nextEpisode=true&episodeSelector=true&autoplayNextEpisode=true&autoplay=true",
       "enabled": true,
