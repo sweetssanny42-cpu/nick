@@ -158,7 +158,7 @@
       "name": "VICTOR",
       "movie": "https://vidbolt.xyz/movie/{tmdbId}?theme=e50914&autoPlay=true",
       "tv": "https://vidbolt.xyz/tv/{tmdbId}/{season}/{episode}?theme=e50914&autoPlay=true",
-      "enabled": true,
+      "enabled": false,
       "isDefault": false
     }
     {
