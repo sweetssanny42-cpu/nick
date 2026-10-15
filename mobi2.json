@@ -148,8 +148,8 @@
     {
       "id": "tango",
       "name": "TANGO",
-      "movie": "https://play.xpass.top/e/movie/{tmdbId}?autostart=true",
-      "tv": "https://play.xpass.top/e/tv/{tmdbId}/{season}/{episode}?autostart=true",
+      "movie": "https://play.xpass.top/e/movie/{tmdbId}?autostart=true&sub=en",
+      "tv": "https://play.xpass.top/e/tv/{tmdbId}/{season}/{episode}?autostart=true&sub=en",
       "enabled": true,
       "isDefault": false
     }
