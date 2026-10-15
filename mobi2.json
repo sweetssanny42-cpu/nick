@@ -131,7 +131,7 @@
     }
     {
       "id": "romeo",
-      "name": "ROMEO test",
+      "name": "ROMEO",
       "movie": "https://moviesapi.to/movie/{tmdbId}?lang=en&autoplay=true&sub=en",
       "tv": "https://moviesapi.to/tv/{tmdbId}/{season}/{episode}?lang=en&autoplay=true&sub=en",
       "enabled": true,
