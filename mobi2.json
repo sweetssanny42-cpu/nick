@@ -4,8 +4,8 @@
      {
       "id": "alpha 4k",
       "name": "ALPHA 4K",
-      "movie": "https://www.vidy.st/movie/{tmdbId}?color=DC2626&autoplay=true",
-      "tv": "https://www.vidy.st/tv/{tmdbId}/{season}/{episode}?color=DC2626&nextEpisode=true&episodeSelector=true&autoplayNextEpisode=true&autoplay=true",
+      "movie": "https://www.vidy.st/movie/{tmdbId}?color=DC2626&autoplay=true&sub=en",
+      "tv": "https://www.vidy.st/tv/{tmdbId}/{season}/{episode}?color=DC2626&nextEpisode=true&episodeSelector=true&autoplayNextEpisode=true&autoplay=true&sub=en",
       "enabled": true,
       "isDefault": false
     }
@@ -20,8 +20,8 @@
     {
       "id": "charlie",
       "name": "CHARLIE",
-      "movie": "https://vidsrc.party/embed/movie/{id}",
-      "tv": "https://vidsrc.party/embed/tv/{id}/{season}/{episode}",
+      "movie": "https://vidsrc.party/embed/movie/{id}?sub=en",
+      "tv": "https://vidsrc.party/embed/tv/{id}/{season}/{episode}?sub=en",
       "enabled": true,
       "isDefault": false
     },
