@@ -140,7 +140,7 @@
     {
       "id": "sierra",
       "name": "SIERRA",
-      "movie": "https://cinemaos.tech/player/movie/{tmdbId}?lang=en&autoplay=true&sub=en",
+      "movie": "https://cinemaos.tech/watch/movie/{tmdbId}?lang=en&autoplay=true&sub=en",
       "tv": "https://cinemaos.tech/player/{tmdbId}/{season}/{episode}?lang=en&autoplay=true&sub=en",
       "enabled": true,
       "isDefault": false
