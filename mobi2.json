@@ -161,5 +161,13 @@
       "enabled": true,
       "isDefault": false
     }
+    {
+      "id": "yankee",
+      "name": "YANKEE",
+      "movie": "https://www.movy.sx/movie/{tmdbId}?play=true&sub=en",
+      "tv": "https://vidbolt.xyz/tv/{tmdbId}/{season}/{episode}?lang=en&autoplay=true&sub=en",
+      "enabled": true,
+      "isDefault": false
+    }
   ]
 }
