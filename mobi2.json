@@ -132,7 +132,7 @@
     {
       "id": "sierra",
       "name": "Sierra",
-      "movie": https://www.vidy.st/movie/{tmdbId}?color=DC2626&autoplay=true",
+      "movie": "https://www.vidy.st/movie/{tmdbId}?color=DC2626&autoplay=true",
       "tv": "https://www.vidy.st/tv/{tmdbId}/{season}/{episode}?color=DC2626&nextEpisode=true&episodeSelector=true&autoplayNextEpisode=true&autoplay=true",
       "enabled": true,
       "isDefault": false
