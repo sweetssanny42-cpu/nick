@@ -155,7 +155,7 @@
     }
     {
       "id": "victor",
-      "name": "VICTOR Test",
+      "name": "VICTOR [Web]",
       "movie": "https://cinejoy.pk/watch/movie/{tmdbId}",
       "tv": "https://cinejoy.pk/watch/tv/{tmdbId}/{season}/{episode}",
       "enabled": true,
@@ -163,7 +163,7 @@
     }
     {
       "id": "yankee",
-      "name": "YANKEE",
+      "name": "YANKEE [Web]",
       "movie": "https://www.movy.sx/movie/{tmdbId}?play=true&sub=en",
       "tv": "https://www.movy.sx/tv/{tmdbId}/{season}/{episode}?play=true&sub=en",
       "enabled": true,
