@@ -12,9 +12,9 @@
     {
       "id": "bravo",
       "name": "BRAVO",
-      "movie": "https://vidstuck.xyz/embed/movie/{id}?subtitle=english",
-      "tv": "https://vidstuck.xyz/embed/tv/{id}/{season}/{episode}?subtitle=english",
-      "enabled": false,
+      "movie": "https://vidstuck.cc/embed/movie/{id}?branding=Nick%20TV&loading=1&back=true&subtitle=english",
+      "tv": "https://vidstuck.cc/embed/tv/{id}/{season}/{episode}?branding=Nick%20TV&loading=1&back=true&subtitle=english",
+      "enabled": true,
       "isDefault": false
     },
     {
