@@ -155,7 +155,7 @@
     }
     {
       "id": "victor",
-      "name": "VICTOR [Web]",
+      "name": "VICTOR [WEB]",
       "movie": "https://cinejoy.pk/watch/movie/{tmdbId}",
       "tv": "https://cinejoy.pk/watch/tv/{tmdbId}/{season}/{episode}",
       "enabled": true,
@@ -163,9 +163,17 @@
     }
     {
       "id": "yankee",
-      "name": "YANKEE [Web]",
+      "name": "YANKEE [WEB]",
       "movie": "https://www.movy.sx/movie/{tmdbId}?play=true&sub=en",
       "tv": "https://www.movy.sx/tv/{tmdbId}/{season}/{episode}?play=true&sub=en",
+      "enabled": true,
+      "isDefault": false
+    }
+    {
+      "id": "whiskey",
+      "name": "WHISKEY [WEB]",
+      "movie": "https://meowtv.ru/play/movie/{tmdbId}?play=true&sub=en",
+      "tv": "https://meowtv.ru/play/{tmdbId}/{season}/{episode}?play=true&sub=en",
       "enabled": true,
       "isDefault": false
     }
