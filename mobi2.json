@@ -173,7 +173,7 @@
       "id": "whiskey",
       "name": "WHISKEY [WEB]",
       "movie": "https://meowtv.ru/play/movie/{tmdbId}?play=true&sub=en",
-      "tv": "https://meowtv.ru/play/{tmdbId}/{season}/{episode}?play=true&sub=en",
+      "tv": "https://meowtv.ru/play/tv/{tmdbId}/{season}/{episode}?play=true&sub=en",
       "enabled": true,
       "isDefault": false
     }
