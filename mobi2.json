@@ -171,14 +171,14 @@
     }
     {
       "id": "whiskey",
-      "name": "WHISKEY [WEB]",
+      "name": "WHISKEY Test [WEB]",
       "movie": "https://meowtv.ru/play/movie/{tmdbId}?play=true&sub=en",
       "tv": "https://meowtv.ru/play/tv/{tmdbId}/{season}/{episode}?play=true&sub=en",
       "enabled": true,
       "isDefault": false
     }
     {
-      "id": "tagalog",
+      "id": "tagalog123",
       "name": "TAGALOG [WEB]",
       "movie": "https://noodstream.asia/video/{tmdbId}?play=true&sub=en",
       "tv": "https://meowtv.ru/play/tv/{tmdbId}/{season}/{episode}?play=true&sub=en",
