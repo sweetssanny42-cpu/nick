@@ -1,1 +1,26 @@
-
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": "apollo",
+      "name": "Apollo",
+      "enabled": true,
+      "urls": [
+        "https://megaplay.buzz/stream/s-2/{embedId}/{lang}",
+        "https://megaplay.buzz/stream/mal/{malId}/{ep}/{lang}",
+        "https://megaplay.buzz/stream/ani/{anilistId}/{ep}/{lang}"
+      ],
+      "langs": ["sub", "dub"]
+    },
+    {
+      "id": "bastet",
+      "name": "Bastet",
+      "enabled": true,
+      "urls": [
+        "https://YOUR-BASTET-HOST/PATH/{malId}/{ep}/{lang}"
+      ],
+      "langs": ["sub", "dub"],
+      "hosts": []
+    }
+  ]
+}
