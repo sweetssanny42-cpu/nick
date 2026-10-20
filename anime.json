@@ -17,12 +17,8 @@
       "name": "Bastet TEST",
       "enabled": true,
       "urls": [
-        "https://backend.nyanime.qzz.io/api/browse/anime/{embedId}",
-        "https://backend.nyanime.qzz.io/api/browse/anime/{malId}",
-        "https://backend.nyanime.qzz.io/api/browse/anime/{anilistId}"
-      ],
-      "langs": ["sub", "dub"],
-      "hosts": []
+        "https://www.vidy.st/anime/{anilistId}/{ep}"
+      ]
     }
   ]
 }
