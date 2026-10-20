@@ -1,96 +1,181 @@
 {
   "version": 1,
   "sources": [
+     {
+      "id": "alpha 4k",
+      "name": "ALPHA 4K",
+      "movie": "https://www.vidy.st/movie/{tmdbId}?color=DC2626&autoplay=true&sub=en",
+      "tv": "https://www.vidy.st/tv/{tmdbId}/{season}/{episode}?color=DC2626&nextEpisode=true&episodeSelector=true&autoplayNextEpisode=true&autoplay=true&sub=en",
+      "enabled": true,
+      "isDefault": false
+    }
     {
       "id": "bravo",
       "name": "BRAVO",
-      "movie": "https://vidstuck.xyz/embed/movie/{id}?subtitle=english",
-      "tv": "https://vidstuck.xyz/embed/tv/{id}/{season}/{episode}?subtitle=english",
-      "enabled": true
+      "movie": "https://vidstuck.cc/embed/movie/{id}?branding=Nick%20TV&loading=1&back=true&subtitle=english",
+      "tv": "https://vidstuck.cc/embed/tv/{id}/{season}/{episode}?branding=Nick%20TV&loading=1&back=true&subtitle=english",
+      "enabled": true,
+      "isDefault": false
     },
     {
       "id": "charlie",
       "name": "CHARLIE",
-      "movie": "https://vidsrc.party/embed/movie/{id}",
-      "tv": "https://vidsrc.party/embed/tv/{id}/{season}/{episode}",
-      "enabled": true
+      "movie": "https://vidsrc.party/embed/movie/{id}?sub=en",
+      "tv": "https://vidsrc.party/embed/tv/{id}/{season}/{episode}?sub=en",
+      "enabled": true,
+      "isDefault": true
     },
     {
       "id": "delta",
       "name": "DELTA",
-      "movie": "https://player.zxcprime.xyz/player/movie/{id}",
-      "tv": "https://zxcstream.xyz/player/tv/{id}/{season}/{episode}",
-      "enabled": true
+      "movie": "https://zxcstream.cc/player/movie/{id}",
+      "tv": "https://zxcstream.cc/player/tv/{id}/{season}/{episode}",
+      "enabled": true,
+      "isDefault": false
     }
     {
       "id": "echo",
       "name": "ECHO",
       "movie": "https://vidlink.pro/movie/{tmdbId}",
       "tv": "https://vidlink.pro/tv/{tmdbId}/{season}/{episode}",
-      "enabled": true
+      "enabled": true,
+      "isDefault": false
     }
     {
       "id": "foxtrot",
       "name": "FOXTROT",
       "movie": "https://vidnest.fun/movie/{tmdbId}",
       "tv": "https://vidnest.fun/tv/{tmdbId}/{season}/{episode}",
-      "enabled": true
+      "enabled": true,
+      "isDefault": false
     }
     {
       "id": "golf",
       "name": "GOLF",
       "movie": "https://player.vidlove.cc/embed/movie/{tmdbId}",
       "tv": "https://player.vidlove.cc/embed/tv/{tmdbId}/{season}/{episode}",
-      "enabled": true
+      "enabled": true,
+      "isDefault": false
     }
     {
       "id": "hotel",
       "name": "HOTEL",
       "movie": "https://embed.vidrift.net/embed/movie/{tmdbId}",
       "tv": "https://embed.vidrift.net/embed/tv/{tmdbId}/{season}/{episode}",
-      "enabled": true
+      "enabled": true,
+      "isDefault": false
     }
     {
       "id": "india",
       "name": "INDIA",
       "movie": "https://player.cinezo.live/embed/movie/{tmdbId}",
       "tv": "https://player.cinezo.live/embed/tv/{tmdbId}/{season}/{episode}",
-      "enabled": true
+      "enabled": true,
+      "isDefault": false
     }
     {
       "id": "juliette",
       "name": "JULIETTE",
       "movie": "https://vidsrc.sh/embed/movie/{tmdbId}",
       "tv": "https://vidsrc.sh/embed/tv/{tmdbId}/{season}/{episode}",
-      "enabled": true
+      "enabled": true,
+      "isDefault": false
     }
     {
       "id": "kilo",
       "name": "KILO",
       "movie": "https://vidrock.to/movie/{tmdbId}",
       "tv": "https://vidrock.to/tv/{tmdbId}/{season}/{episode}",
-      "enabled": false
+      "enabled": false,
+      "isDefault": false
     }
     {
       "id": "lima",
       "name": "LIMA",
       "movie": "https://play.xpass.top/e/movie/{tmdbId}",
       "tv": "https://play.xpass.top/e/tv/{tmdbId}/{season}/{episode}",
-      "enabled": true
+      "enabled": true,
+      "isDefault": false
     }
     {
       "id": "mike",
       "name": "MIKE",
       "movie": "https://vaplayer.ru/embed/movie/{tmdbId}",
       "tv": "https://vaplayer.ru/embed/tv/{tmdbId}/{season}/{episode}",
-      "enabled": true
+      "enabled": true,
+      "isDefault": false
     }
     {
       "id": "november",
       "name": "NOVEMBER",
       "movie": "https://player.vidzee.wtf/embed/movie/{tmdbId}",
       "tv": "https://player.vidzee.wtf/embed/tv/{tmdbId}/{season}/{episode}",
-      "enabled": true
+      "enabled": true,
+      "isDefault": false
+    }
+    {
+      "id": "oscar",
+      "name": "OSCAR",
+      "movie": "https://vidfast.vc/movie/{tmdbId}?autoPlay=true&sub=en",
+      "tv": "https://vidfast.vc/tv/{tmdbId}/{season}/{episode}?autoPlay=true&nextButton=true&autoNext=true&sub=en",
+      "enabled": true,
+      "isDefault": false
+    }
+    {
+      "id": "papa",
+      "name": "PAPA",
+      "movie": "https://multiembed.mov/?video_id={tmdbId}&tmdb=1", 
+      "tv": "https://multiembed.mov/?video_id={tmdbId}&tmdb=1&s={season}&e={episode}",
+      "enabled": true,
+      "isDefault": false
+    }
+    {
+      "id": "romeo",
+      "name": "ROMEO",
+      "movie": "https://moviesapi.to/movie/{tmdbId}?lang=en&autoplay=true&sub=en",
+      "tv": "https://moviesapi.to/tv/{tmdbId}/{season}/{episode}?lang=en&autoplay=true&sub=en",
+      "enabled": true,
+      "isDefault": false
+    }
+    {
+      "id": "sierra",
+      "name": "SIERRA",
+      "movie": "https://cinemaos.tech/watch/movie/{tmdbId}?lang=en&autoplay=true&sub=en",
+      "tv": "https://cinemaos.tech/player/{tmdbId}/{season}/{episode}?lang=en&autoplay=true&sub=en",
+      "enabled": true,
+      "isDefault": false
+    }
+    {
+      "id": "tango",
+      "name": "TANGO",
+      "movie": "https://play.xpass.top/e/movie/{tmdbId}?autostart=true&sub=en",
+      "tv": "https://play.xpass.top/e/tv/{tmdbId}/{season}/{episode}?autostart=true&sub=en",
+      "enabled": true,
+      "isDefault": false
+    }
+    {
+      "id": "victor",
+      "name": "VICTOR [WEB]",
+      "movie": "https://cinejoy.pk/watch/movie/{tmdbId}",
+      "tv": "https://cinejoy.pk/watch/tv/{tmdbId}/{season}/{episode}",
+      "enabled": true,
+      "isDefault": false
+    }
+    {
+      "id": "yankee",
+      "name": "YANKEE [WEB]",
+      "movie": "https://www.movy.sx/movie/{tmdbId}?play=true&sub=en",
+      "tv": "https://www.movy.sx/tv/{tmdbId}/{season}/{episode}?play=true&sub=en",
+      "enabled": true,
+      "isDefault": false
+    }
+    {
+      "id": "whiskey",
+      "name": "WHISKEY [WEB]",
+      "movie": "https://meowtv.ru/play/movie/{tmdbId}?play=true&sub=en",
+      "tv": "https://meowtv.ru/play/tv/{tmdbId}/{season}/{episode}?play=true&sub=en",
+      "enabled": true,
+      "isDefault": false
     }
   ]
 }
