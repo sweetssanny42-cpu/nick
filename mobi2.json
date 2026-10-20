@@ -28,8 +28,8 @@
     {
       "id": "delta",
       "name": "DELTA",
-      "movie": "https://player.zxcprime.xyz/player/movie/{id}",
-      "tv": "https://zxcstream.xyz/player/tv/{id}/{season}/{episode}",
+      "movie": "https://zxcstream.cc/player/movie/{id}",
+      "tv": "https://zxcstream.cc/player/tv/{id}/{season}/{episode}",
       "enabled": true,
       "isDefault": false
     }
