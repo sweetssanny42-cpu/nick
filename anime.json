@@ -14,10 +14,12 @@
     },
     {
       "id": "bastet",
-      "name": "Bastet",
+      "name": "Bastet TEST",
       "enabled": true,
       "urls": [
-        "https://YOUR-BASTET-HOST/PATH/{malId}/{ep}/{lang}"
+        "https://backend.nyanime.qzz.io/api/browse/anime/{embedId}",
+        "https://backend.nyanime.qzz.io/api/browse/anime/{malId}",
+        "https://backend.nyanime.qzz.io/api/browse/anime/{anilistId}"
       ],
       "langs": ["sub", "dub"],
       "hosts": []
