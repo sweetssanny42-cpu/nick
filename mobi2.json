@@ -130,6 +130,14 @@
       "isDefault": false
     }
     {
+      "id": "quebec",
+      "name": "QUEBEC",
+      "movie": "https://cinesrc.st/embed/movie/{tmdbId}", 
+      "tv": "https://cinesrc.st/embed/tv/{tmdbId}/{season}/{episode}",
+      "enabled": true,
+      "isDefault": false
+    }
+    {
       "id": "romeo",
       "name": "ROMEO",
       "movie": "https://moviesapi.to/movie/{tmdbId}?lang=en&autoplay=true&sub=en",
@@ -139,7 +147,7 @@
     }
     {
       "id": "sierra",
-      "name": "SIERRA",
+      "name": "SIERRA [WEB]",
       "movie": "https://cinemaos.tech/watch/movie/{tmdbId}?lang=en&autoplay=true&sub=en",
       "tv": "https://cinemaos.tech/player/{tmdbId}/{season}/{episode}?lang=en&autoplay=true&sub=en",
       "enabled": true,
