@@ -133,7 +133,7 @@
       "id": "quebec",
       "name": "QUEBEC",
       "movie": "https://cinesrc.st/embed/movie/{tmdbId}", 
-      "tv": "https://cinesrc.st/embed/tv/{tmdbId}/{season}/{episode}",
+      "tv": "https://cinesrc.st/embed/tv/{tmdbId}?s={season}&e={episode}",
       "enabled": true,
       "isDefault": false
     }
