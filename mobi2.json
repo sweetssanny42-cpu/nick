@@ -193,5 +193,13 @@
       "enabled": true,
       "isDefault": false
     }
+    {
+      "id": "eridanus",
+      "name": "ERIDANUS [WEB]",
+      "movie": "https://cinelite.xyz/watch/{tmdbId}",
+      "tv": "ttps://cinelite.xyz/watch/{tmdbId}/{season}/{episode}",
+      "enabled": true,
+      "isDefault": false
+    }
   ]
 }
