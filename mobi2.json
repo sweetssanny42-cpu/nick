@@ -195,7 +195,7 @@
     }
     {
       "id": "eridanus",
-      "name": "ERIDANUS [WEB]",
+      "name": "ERIDANUS 4k [WEB]",
       "movie": "https://cinelite.xyz/watch/{tmdbId}",
       "tv": "ttps://cinelite.xyz/watch/{tmdbId}/{season}/{episode}",
       "enabled": true,
