@@ -147,9 +147,9 @@
     }
     {
       "id": "sierra",
-      "name": "SIERRA [WEB]",
-      "movie": "https://cinemaos.tech/watch/movie/{tmdbId}?lang=en&autoplay=true&sub=en",
-      "tv": "https://cinemaos.tech/player/{tmdbId}/{season}/{episode}?lang=en&autoplay=true&sub=en",
+      "name": "SIERRA",
+      "movie": "https://gardenbeast.world/embed/movie/{tmdbId}", 
+      "tv": "https://gardenbeast.world/embed/{tmdbId}/{season}-{episode}",
       "enabled": true,
       "isDefault": false
     }
@@ -162,24 +162,32 @@
       "isDefault": false
     }
     {
-      "id": "victor",
-      "name": "VICTOR [WEB]",
+      "id": "andromeda",
+      "name": "ANDROMEDA [WEB]",
       "movie": "https://cinejoy.pk/watch/movie/{tmdbId}",
       "tv": "https://cinejoy.pk/watch/tv/{tmdbId}/{season}/{episode}",
       "enabled": true,
       "isDefault": false
     }
     {
-      "id": "yankee",
-      "name": "YANKEE [WEB]",
+      "id": " bootes",
+      "name": "BOOTES [WEB]",
       "movie": "https://www.movy.sx/movie/{tmdbId}?play=true&sub=en",
       "tv": "https://www.movy.sx/tv/{tmdbId}/{season}/{episode}?play=true&sub=en",
       "enabled": true,
       "isDefault": false
     }
     {
-      "id": "whiskey",
-      "name": "WHISKEY [WEB]",
+      "id": "caelum",
+      "name": "CAELUM [WEB]",
+      "movie": "https://cinemaos.tech/watch/movie/{tmdbId}?lang=en&autoplay=true&sub=en",
+      "tv": "https://cinemaos.tech/player/{tmdbId}/{season}/{episode}?lang=en&autoplay=true&sub=en",
+      "enabled": true,
+      "isDefault": false
+    }
+    {
+      "id": "draco",
+      "name": "DRACO [WEB]",
       "movie": "https://meowtv.ru/play/movie/{tmdbId}?play=true&sub=en",
       "tv": "https://meowtv.ru/play/tv/{tmdbId}/{season}/{episode}?play=true&sub=en",
       "enabled": true,
