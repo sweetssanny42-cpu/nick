@@ -15,7 +15,7 @@
       "movie": "https://vidstuck.cc/embed/movie/{id}?branding=Nick%20TV&loading=1&back=true&subtitle=english",
       "tv": "https://vidstuck.cc/embed/tv/{id}/{season}/{episode}?branding=Nick%20TV&loading=1&back=true&subtitle=english",
       "enabled": true,
-      "isDefault": false
+      "isDefault": true
     },
     {
       "id": "charlie",
@@ -23,7 +23,7 @@
       "movie": "https://vidsrc.party/embed/movie/{id}?sub=en",
       "tv": "https://vidsrc.party/embed/tv/{id}/{season}/{episode}?sub=en",
       "enabled": true,
-      "isDefault": true
+      "isDefault": false
     },
     {
       "id": "delta",
