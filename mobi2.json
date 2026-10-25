@@ -201,5 +201,14 @@
       "enabled": true,
       "isDefault": false
     }
+    
+    {
+      "id": "fornax",
+      "name": "FORNAX [WEB]",
+      "movie": "https://flystream.net/movie/{tmdbId}",
+      "tv": "ttps://cinelite.xyz/watch/{tmdbId}/{season}/{episode}",
+      "enabled": true,
+      "isDefault": false
+    }
   ]
 }
