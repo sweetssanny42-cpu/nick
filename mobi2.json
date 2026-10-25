@@ -207,7 +207,7 @@
       "name": "FORNAX [WEB]",
       "movie": "https://flystream.net/movie/{tmdbId}",
       "tv": "ttps://cinelite.xyz/watch/{tmdbId}/{season}/{episode}",
-      "enabled": true,
+      "enabled": false,
       "isDefault": false
     }
   ]
