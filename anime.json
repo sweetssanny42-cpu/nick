@@ -65,6 +65,19 @@
         "sub",
         "dub"
       ]
+    },
+    {
+      "id": "zoko",
+      "name": "Zoko",
+      "enabled": true,
+      "urls": [
+        "https://zokoanime.video/stream/mal/{malId}/{ep}/{lang}",
+        "https://zokoanime.video/stream/anilist/{anilistId}/{ep}/{lang}"
+      ],
+      "langs": [
+        "sub",
+        "dub"
+      ]
     }
   ]
 }
