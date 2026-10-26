@@ -10,17 +10,49 @@
         "https://megaplay.buzz/stream/mal/{malId}/{ep}/{lang}",
         "https://megaplay.buzz/stream/ani/{anilistId}/{ep}/{lang}"
       ],
-      "langs": ["sub", "dub"]
+      "langs": [
+        "sub",
+        "dub"
+      ]
     },
     {
-      "id": "balistic",
-      "name": "Balistic",
+      "id": "novu",
+      "name": "NOVU",
       "enabled": true,
       "urls": [
         "https://novuscloud.buzz/embed/hd-2/ani/{anilistId}/{ep}/{lang}?k=1&autoplay=1",
         "https://novuscloud.buzz/embed/mal/{malId}/{ep}/{lang}?k=1&autoplay=1"
       ],
-      "langs": ["sub", "dub"]
+      "langs": [
+        "sub",
+        "dub"
+      ]
+    },
+    {
+      "id": "anixo",
+      "name": "Anixo",
+      "enabled": true,
+      "urls": [
+        "https://anixo.buzz/embed/ani/{anilistId}/{ep}?track={lang}",
+        "https://anixo.buzz/embed/mal/{malId}/{ep}?track={lang}"
+      ],
+      "langs": [
+        "sub",
+        "dub"
+      ]
+    }
+    {
+      "id": "mega",
+      "name": "Mega",
+      "enabled": true,
+      "urls": [
+        "https://megavid.buzz/mal/{malId}/{ep}/{lang}",
+        "https://megavid.buzz/ani/{anilistId}/{ep}/{lang}"
+      ],
+      "langs": [
+        "sub",
+        "dub"
+      ]
     }
   ]
 }
