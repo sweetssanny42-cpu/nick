@@ -13,12 +13,14 @@
       "langs": ["sub", "dub"]
     },
     {
-      "id": "bastet",
-      "name": "Bastet TEST",
+      "id": "balistic",
+      "name": "Balistic,
       "enabled": true,
       "urls": [
-        "https://www.vidy.st/anime/{anilistId}/{ep}"
-      ]
+        "https://novuscloud.buzz/embed/hd-2/ani/{anilistId}/{ep}/{lang}?k=1&autoplay=1",
+        "https://novuscloud.buzz/embed/mal/{malId}/{ep}/{lang}?k=1&autoplay=1"
+      ],
+      "langs": ["sub", "dub"]
     }
   ]
 }
