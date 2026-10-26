@@ -17,7 +17,7 @@
     },
     {
       "id": "novu",
-      "name": "NOVU",
+      "name": "Novu",
       "enabled": true,
       "urls": [
         "https://novuscloud.buzz/embed/hd-2/ani/{anilistId}/{ep}/{lang}?k=1&autoplay=1",
