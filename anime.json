@@ -78,6 +78,19 @@
         "sub",
         "dub"
       ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud",
+      "enabled": true,
+      "urls": [
+        "https://vidcloud.sbs/embed/ani/{anilistId}/{ep}?track={lang}&autoSkip=1",
+        "https://vidcloud.sbs/embed/mal/{malId}/{ep}?track={lang}&autoSkip=1&autoNext=1"
+      ],
+      "langs": [
+        "sub",
+        "dub"
+      ]
     }
   ]
 }
