@@ -91,6 +91,19 @@
         "sub",
         "dub"
       ]
+    },
+    {
+      "id": "nika",
+      "name": "Nika",
+      "enabled": true,
+      "urls": [
+        "https://nikastream.blog/embed/mal/{malId}/{ep}/{lang}",
+        "https://nikastream.blog/embed/ani/{anilistId}/{ep}/{lang}"
+      ],
+      "langs": [
+        "sub",
+        "dub"
+      ]
     }
   ]
 }
