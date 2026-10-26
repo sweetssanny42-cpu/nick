@@ -54,5 +54,17 @@
         "dub"
       ]
     }
+    {
+      "id": "anilink",
+      "name": "Anilink",
+      "enabled": true,
+      "urls": [
+        "https://anilink.cc/watch/{anilistId}/{ep}?variant={lang}"
+      ],
+      "langs": [
+        "sub",
+        "dub"
+      ]
+    }
   ]
 }
