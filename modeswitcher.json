@@ -1,1 +1,15 @@
-
+{
+  "default_message": "Temporarily unavailable. Please try again later.",
+  "modes": {
+    "cable_tv":      { "locked": false, "message": "CABLE TV is temporarily unavailable. Please try again later." },
+    "nba_tv":        { "locked": false, "message": "NBA [N1] is temporarily unavailable. Please try again later." },
+    "nba_2_tv":      { "locked": true, "message": "NBA [N2] is temporarily unavailable. Please try again later." },
+    "nba_replay_tv": { "locked": false, "message": "NBA REPLAY is temporarily unavailable. Please try again later." },
+    "sports_tv":     { "locked": false, "message": "SPORTS [S1] is under maintenance. Please try again later." },
+    "sports_2_tv":   { "locked": false, "message": "SPORTS [S2] is under maintenance. Please try again later." },
+    "sports_3_tv":   { "locked": false, "message": "SPORTS [S3] is under maintenance. Please try again later." },
+    "sports_4_tv":   { "locked": false, "message": "SPORTS [S4] is under maintenance. Please try again later." },
+    "anime_tv":      { "locked": false, "message": "ANIME TV is temporarily unavailable. Please try again later." },
+    "adult_tv":      { "locked": false, "message": "This section is temporarily unavailable. Please try again later." }
+  }
+}
