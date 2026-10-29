@@ -54,7 +54,7 @@
       "name": "GOLF",
       "movie": "https://player.vidlove.cc/embed/movie/{tmdbId}",
       "tv": "https://player.vidlove.cc/embed/tv/{tmdbId}/{season}/{episode}",
-      "enabled": true,
+      "enabled": false,
       "isDefault": false
     }
     {
