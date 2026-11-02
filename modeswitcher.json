@@ -3,7 +3,7 @@
   "modes": {
     "cable_tv":      { "locked": false, "message": "CABLE TV is temporarily unavailable. Please try again later." },
     "nba_tv":        { "locked": false, "message": "NBA [N1] is temporarily unavailable. Please try again later." },
-    "nba_2_tv":      { "locked": true, "message": "NBA [N2] is temporarily unavailable. Please try again later." },
+    "nba_2_tv":      { "locked": false, "message": "NBA [N2] is temporarily unavailable. Please try again later." },
     "nba_replay_tv": { "locked": false, "message": "NBA REPLAY is temporarily unavailable. Please try again later." },
     "sports_tv":     { "locked": false, "message": "SPORTS [S1] is under maintenance. Please try again later." },
     "sports_2_tv":   { "locked": false, "message": "SPORTS [S2] is under maintenance. Please try again later." },
