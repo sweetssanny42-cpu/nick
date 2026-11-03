@@ -163,7 +163,7 @@
     }
     {
       "id": "ultra",
-      "name": "Ultra",
+      "name": "ULTRA",
       "movie": "https://vidstorm.to/movie/{tmdbId}?autostart=true&sub=en",
       "tv": "https://vidstorm.to/tv/{tmdbId}/{season}/{episode}?autostart=true&sub=en",
       "enabled": true,
@@ -171,9 +171,9 @@
     }
     {
       "id": "victor",
-      "name": "Victor",
-      "movie": "https://www.2embed.skin/embed/{tmdbId}?autostart=true&sub=en",
-      "tv": "https://www.2embed.skin/embedtv/{tmdbId}/{season}/{episode}?autostart=true&sub=en",
+      "name": "VICTOR",
+      "movie": "https://www.2embed.skin/embed/{tmdbId}",
+      "tv": "https://www.2embed.skin/embedtv/{tmdbId}/{season}/{episode}",
       "enabled": true,
       "isDefault": false
     }
