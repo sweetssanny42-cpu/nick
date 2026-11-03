@@ -1,13 +1,12 @@
 {
   "version": 1,
-  "catalog_users": [
-    "NyxaraKLDramaHollow"
-  ],
+  "client_id": "f1a362d288c1b98099c7",
+  "client_secret": "eea605b96e01c796ff369935357eca920c5da4c5",
+  "traffic_segment": "477747",
+  "visitor_id": "1CEF0A7D88B84CA690DC1F618FE2F779",
+  "catalog_users": ["NyxaraKLDramaHollow"],
   "search_users": [
-    "ChestnutRapidsTheater",
-    "QadirixSDDramaVale",
-    "VandralSDDramaCrest",
-    "BayouBoulevardFilms",
-    "Celestitedramatime"
+    "ChestnutRapidsTheater", "QadirixSDDramaVale", "VandralSDDramaCrest",
+    "BayouBoulevardFilms", "Celestitedramatime"
   ]
 }
