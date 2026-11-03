@@ -162,6 +162,14 @@
       "isDefault": false
     }
     {
+      "id": "ultra",
+      "name": "Ultra",
+      "movie": https://vidstorm.to/movie/{tmdbId}?autostart=true&sub=en",
+      "tv": "https://vidstorm.to/tv/{tmdbId}/{season}/{episode}?autostart=true&sub=en",
+      "enabled": true,
+      "isDefault": false
+    }
+    {
       "id": "andromeda",
       "name": "ANDROMEDA [WEB]",
       "movie": "https://cinejoy.pk/watch/movie/{tmdbId}",
