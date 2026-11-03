@@ -150,7 +150,7 @@
       "name": "SIERRA",
       "movie": "https://gardenbeast.world/embed/movie/{tmdbId}", 
       "tv": "https://gardenbeast.world/embed/{tmdbId}/{season}-{episode}",
-      "enabled": true,
+      "enabled": false,
       "isDefault": false
     }
     {
