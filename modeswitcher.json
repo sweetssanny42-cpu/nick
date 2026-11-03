@@ -10,6 +10,8 @@
     "sports_3_tv":   { "locked": false, "message": "SPORTS [S3] is under maintenance. Please try again later." },
     "sports_4_tv":   { "locked": false, "message": "SPORTS [S4] is under maintenance. Please try again later." },
     "anime_tv":      { "locked": false, "message": "ANIME TV is temporarily unavailable. Please try again later." },
-    "adult_tv":      { "locked": false, "message": "This section is temporarily unavailable. Please try again later." }
+    "short_tv":      { "locked": false, "message": "SHORT TV is temporarily unavailable. Please try again later." },
+    "adult_tv":      { "locked": false, "message": "This section is temporarily unavailable. Please try again later." },
+    "chat_tv":       { "locked": false, "message": "This section is temporarily unavailable. Please try again later." }
   }
 }
