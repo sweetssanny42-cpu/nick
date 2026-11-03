@@ -174,7 +174,7 @@
       "name": "VICTOR",
       "movie": "https://www.2embed.skin/embed/{tmdbId}",
       "tv": "https://www.2embed.skin/embedtv/{tmdbId}/{season}/{episode}",
-      "enabled": true,
+      "enabled": false,
       "isDefault": false
     }
     {
